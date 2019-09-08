@@ -1,20 +1,29 @@
-# Sandwich Club Project Starter Code
+# Sandwich Club
 
-## Project Overview
-In this project, you will complete the **Sandwich Club** app to
-show the details of each sandwich once it is selected.
+A sandwich selector that processes JSON from a URL and presents ingredient data for certain sandwiches provided by the JSON. 
 
-## Why this Project
+## Installation
 
-Building a layout and populating its fields from data received as JSON
-is a common task for Android Developers. Although JSON parsing is usually
-done using libraries, writing the JSON parsing for  this project will
-help you to better understand how it is processed.
+Clone this repository and import into **Android Studio**
 
-## What Will I Learn?
-Through this project, you will:
-- Learn how to submit projects for review
-- Practice JSON parsing to a model object
-- Design an activity layout
-- Populate all fields in the layout accordingly
+`git clone https://github.com/goinskj/SandwichClub.git`
+
+## Build Variants
+
+Use the Android Studio Build Variants button to choose between production and staging flavors combined with debug and release build types
+
+## Maintainers
+
+[Kenneth J. Goins](https://github.com/goinskj)
+
+## Contributing
+
+1. Fork it
+2. Create your feature branch (git checkout -b my-new-feature)
+3. Commit your changes (git commit -m 'Add some feature')
+4. Run the linter (ruby lint.rb').
+5. Push your branch (git push origin my-new-feature)
+6. Create a new Pull Request
+
+
 
